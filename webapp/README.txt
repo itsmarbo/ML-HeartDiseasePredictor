@@ -20,3 +20,5 @@ For HEROKU the following files are used:
 	° requirements.txt = contains all the libraries needed to be
 			     installed for the app to work
 	° setup.sh = commands to start the application
+
+Link od the webapp: https://heartwebapp.herokuapp.com/ 
