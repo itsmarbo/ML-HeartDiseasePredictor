@@ -21,4 +21,4 @@ For HEROKU the following files are used:
 			     installed for the app to work
 	° setup.sh = commands to start the application
 
-Link od the webapp: https://heartwebapp.herokuapp.com/ 
+Webapp link: https://heartwebapp.herokuapp.com/ 
